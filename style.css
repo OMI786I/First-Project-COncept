@@ -164,3 +164,15 @@ a {
   text-decoration: none;
   color: white;
 }
+
+.copyright {
+  text-align: center;
+  color: white;
+  font-size: 13px;
+  padding: 20px;
+}
+
+hr {
+  margin-left: 60px;
+  margin-right: 60px;
+}
